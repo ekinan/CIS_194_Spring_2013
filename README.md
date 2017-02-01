@@ -7,5 +7,3 @@ language.
 
 URL: http://www.cis.upenn.edu/~cis194/spring13/
 
-Note that I am still doing this course, so not all of the assignments are shown
-on there.
